@@ -1,16 +1,46 @@
-## Hi there 👋
+## # Hi, I'm Joel Abner 👋
 
-<!--
-**joelabner999/joelabner999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ BINUS University  
+💻 UI/UX Designer & Back-End Developer
 
-Here are some ideas to get you started:
+I enjoy designing user-friendly interfaces and building functional systems behind digital products. I'm always interested in learning new technologies and turning ideas into meaningful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Design**
+- Figma
+
+**Back-End**
+- Node.js
+- Express.js
+- Laravel
+
+**Database**
+- MySQL
+
+**Languages**
+- JavaScript
+- PHP
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Featured Projects
+
+### 🛍️ Hypen
+E-commerce platform focused on Indonesian cultural products, combining online shopping with cultural experiences.
+
+**Tech:** Node.js • Express.js • MySQL • REST API
+
+### 🎨 Larasana
+E-commerce concept for Indonesian batik and traditional textiles with a focus on user experience and cultural storytelling.
+
+**Focus:** UI/UX Design • E-Commerce • Figma
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
+- 📧 Email: your.email@example.com
+

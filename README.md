@@ -41,6 +41,6 @@ E-commerce concept for Indonesian batik and traditional textiles with a focus on
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/joel-abner27/
+- 📧 Email: joelabner.sandre@gmail.com
 
